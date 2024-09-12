@@ -8,7 +8,7 @@ In addition, I have a strong background in project management and client relatio
 
 - 🔭 I’m currently working on **Metadata driven program generator.**
 
-- 🌱 I’m currently learning **REACTJS, Docker, CI/CD, GraphQL, PostgreSQL AWS**
+- 🌱 I’m currently learning **REACTJS, NodeJS, Docker, CI/CD, GraphQL, PostgreSQL, AWS**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
