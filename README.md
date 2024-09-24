@@ -4,7 +4,7 @@ With <b>9</b> years of backend development experience, including <b>6</b> years 
 
 I am proficient in <b>PHP, Laravel, MySQL, MongoDB, ReactJS and jQuery</b>. My strong troubleshooting skills allow me to efficiently dig into issues and resolve them quickly, while my ability to develop new features for any module in a short time makes me adaptable to fast-paced development environments.
 
-In addition, I have a strong background in project management and client relations, with experience in all stages of the development cycle for dynamic web projects. My expertise in Agile software management tools, such as <b>JIRA, Bitbucket and Git</b>, allows me to collaborate effectively with teams. Furthermore, my professional certification in Automated Software Testing ensures high-quality, bug-free solutions.
+In addition, I have a strong background in project management and client relations, with experience in all stages of the development cycle for dynamic web projects. My expertise in Agile software management tools, such as <b>JIRA, Bitbucket and Git</b>, allows me to collaborate effectively with teams. 
 
 - 🔭 I’m currently working on **Metadata driven program generator.**
 
