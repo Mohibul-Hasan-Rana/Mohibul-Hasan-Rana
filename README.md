@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I am Md. Mohibul Hasan </h1>
 
-With <b>8</b> years of backend development experience, including <b>6</b> years specializing in the <b>Laravel framework</b>, I am passionate about creating state-of-the-art, user-friendly websites and applications. I am also familiar with Yii and CodeIgniter frameworks, which broadens my versatility as a developer.
+With <b>9</b> years of backend development experience, including <b>6</b> years specializing in the <b>Laravel framework</b>, I am passionate about creating state-of-the-art, user-friendly websites and applications. I am also familiar with Yii and CodeIgniter frameworks, which broadens my versatility as a developer.
 
 I am proficient in <b>PHP, Laravel, MySQL, MongoDB, ReactJS and jQuery</b>. My strong troubleshooting skills allow me to efficiently dig into issues and resolve them quickly, while my ability to develop new features for any module in a short time makes me adaptable to fast-paced development environments.
 
