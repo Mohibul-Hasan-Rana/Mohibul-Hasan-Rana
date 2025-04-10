@@ -8,7 +8,7 @@ In addition, I have a strong background in project management and client relatio
 
 - 🔭 I’m currently working on **Fluent Community Wordpress Plugin with Laravel and VueJS**
 
-- 🌱 I’m currently learning **NodeJS, Docker, CI/CD, GraphQL, PostgreSQL, AWS**
+- 🌱 I’m currently learning **NodeJS, Docker, CI/CD, MongoDB, GraphQL, PostgreSQL, AWS**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
